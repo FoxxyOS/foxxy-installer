@@ -1,0 +1,3 @@
+use-sudo-instead-of-pkexec
+foxxy-base.patch
+fix-bootloader-module.patch
